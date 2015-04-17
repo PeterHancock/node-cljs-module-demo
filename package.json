@@ -1,0 +1,15 @@
+{
+  "name": "node-cljs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "build": "bash build.sh"
+  },
+  "author": "Peter Hancock <peter.hancock@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^2.0.0"
+  }
+}
